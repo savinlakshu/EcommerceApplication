@@ -1,0 +1,13 @@
+.layout{
+    
+    height:100vh;
+    width:90vh;
+    padding-top: 130px;
+    
+}
+
+.backGradient{
+    height:100vh;
+    background-color: #FEE140;
+    background-image: linear-gradient(180deg, #FEE140 0%, #FA709A 100%);
+}

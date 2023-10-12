@@ -1,0 +1,27 @@
+.mainHeader{
+    display:flex;
+    flex-direction: row;
+    
+}
+
+.userInfo{
+    display: inline-flex;
+    width:300px;
+    
+    flex-direction: row;
+    align-items: center;
+    flex: 1;
+    position: relative;
+
+}
+
+.clientImg{
+    width:64px;
+   
+    margin-left:30px;
+    margin-right: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
